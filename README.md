@@ -15,4 +15,4 @@
 - npm start
 
 ## Postman Collection
-- Import the `AuthApp.postman_collection.json` file into Postman for testing API endpoints.
+- Import database `mydb` 

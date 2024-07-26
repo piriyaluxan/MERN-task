@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "669f7ea1bf1666ebb3d8e561"
+  },
+  "name": "luxan",
+  "email": "luxan@gmail.com",
+  "password": "12345",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a1f89a41d47ede7e1c6fca"
+  },
+  "name": "mohan",
+  "email": "mohan@gmail.com",
+  "password": "$2b$10$1pV3/6vxpNhuhIVbHd/uQe50l74QYUfdXcLZSkOf2YdhWoWe03L6W",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a24a683f5e6103d3f31bf0"
+  },
+  "name": "suluxan",
+  "email": "usha@gmail.com",
+  "password": "$2b$10$y..cDKdEpMKHwYzow5VU8.Yw90CPTsbkoTg.9X.jubdZlQjHcMKTC",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a3b50f159e389348d4047b"
+  },
+  "name": "sasikaran",
+  "email": "sasi@gmail.com",
+  "password": "$2b$10$3Z189.d2hR22CFElC8J/BOfUEPOnBvSQJu1GYDHrm0uOl8B3zNvKC",
+  "__v": 0
+}]

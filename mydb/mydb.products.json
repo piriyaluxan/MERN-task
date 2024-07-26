@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "66a146910dd5f5797f2a9a38"
+  },
+  "name": "Smartphone X Pro",
+  "price": 999.99,
+  "category": "Phone",
+  "product_des": "The Smartphone X Pro features a 6.7-inch display, 128GB storage, and a powerful camera system. Perfect for photography enthusiasts and tech lovers.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a146c20dd5f5797f2a9a3c"
+  },
+  "name": "Gaming Laptop Z",
+  "price": 1499.99,
+  "category": "PC",
+  "product_des": "The Gaming Laptop Z boasts a high-refresh-rate screen, a powerful GPU, and 16GB of RAM. Ideal for gamers and power users.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a146ea0dd5f5797f2a9a40"
+  },
+  "name": "4K Ultra HD TV",
+  "price": 799.99,
+  "category": "TV",
+  "product_des": "Experience stunning visuals with the 4K Ultra HD TV. It features vibrant colors and a slim design, perfect for movie nights.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a1473a0dd5f5797f2a9a44"
+  },
+  "name": "55-Inch 4K Ultra HD LED TV",
+  "price": 749.99,
+  "category": "TV",
+  "product_des": "Enjoy a cinematic experience with the 55-Inch 4K Ultra HD LED TV. Its impressive 4K resolution delivers sharp, vibrant images, while its slim profile and modern design make it a stylish addition to your living space.",
+  "__v": 0
+}]

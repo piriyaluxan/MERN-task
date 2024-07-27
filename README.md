@@ -10,9 +10,9 @@
 ## Backend
 - Built with Node.js, Express, and MongoDB.
 - Navigate to `backend as server` directory and run `npm install` and `npm start`.
-- cd backend
-- npm install
-- npm start
+  - cd backend
+  - npm install
+  - npm start
 
 ## Postman Collection
 - Import database `mydb` 

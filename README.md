@@ -3,9 +3,9 @@
 ## Frontend
 - Built with React and Vite.
 - Navigate to the `frontend as client` directory and run the following commands to install dependencies and start the development server:
-  cd client
-  npm install
-  npm run dev
+  - cd client
+  - npm install
+  - npm run dev
 
 ## Backend
 - Built with Node.js, Express, and MongoDB.

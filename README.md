@@ -10,7 +10,7 @@
 ## Backend
 - Built with Node.js, Express, and MongoDB.
 - Navigate to `backend as server` directory and run `npm install` and `npm start`.
-  - cd backend
+  - cd server
   - npm install
   - npm start
 
